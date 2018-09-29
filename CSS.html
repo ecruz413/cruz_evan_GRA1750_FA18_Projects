@@ -1,10 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title> CSS Intro</title>
+	<style>
+		p{
+			color:red; 
+		}
+	</style> <!-- ^^^(CSS)Embeded^^^ -->
+
+	<link href="Styling.css" rel="stylesheet" type="text/css"><!-- (CSS) External -->
 </head>
 <body>
-	<p style="font: arial; font size: 24px; color: red;">This text is RED</p>
+	<p style="font-family: Times; font-size: 50px; color: blue;">This text is BLUE</p><!-- (CSS) Inline: Can put as many styles as you want -->
+	<p>This text is being edited by the <em>Embedded/Internal</em> Style
+	</p>
+	<p id="Evan"> This paragraph will be edited with the external CSS		
+	</p><!-- (CSS) External -->
 
 </body>
 </html>
