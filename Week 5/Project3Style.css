@@ -1,0 +1,32 @@
+div{
+	width: 400px;
+	background-color: #00cc00;
+	margin: 0 auto;
+}
+
+#M_original{
+	width: 50%;
+	position:relative;
+	left: 100px
+}
+
+#M_UltraBlack{
+	width: 175%;
+	position: relative;
+	right: 150px
+	}
+
+#M_assault{
+	width: 75%;
+	position: relative;
+	left: 50px
+}
+
+#M_logo{
+	width: 100%
+}
+
+#M_logo2{
+	width: 100%
+
+}

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Intro to Div tags</title>
+	<link href="introtodivtags.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+	<div>
+		<p>Some text inside a paragraph, which is inside a div tag.</p>
+
+	</div>	
+</body>
+</html>

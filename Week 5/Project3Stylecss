@@ -1,0 +1,6 @@
+div{
+	width: 300px;
+	height: 600px;
+	background-color: #ff3399;
+	margin: 0 auto;
+}
