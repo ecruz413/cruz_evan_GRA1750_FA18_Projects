@@ -1,0 +1,39 @@
+#container{
+	width: 300px;
+	background-color: blue;
+}
+#hotlink{
+	color: white;
+	display: inline-block;
+}
+
+#container:hover{
+	background-color: black;
+}
+
+#hotlink:hover{
+	font-size: 24px;
+
+}
+
+#hotlink:visited{
+	color: red;
+
+}
+
+#hotlink:active{
+	color: green;
+	font-style: bold
+}
+
+#container li{
+	color: white;
+	display: inline;
+	padding: right 30px;
+}
+
+ul{
+	list-style-type: none;
+	display: inline;
+	width: 50px
+}
