@@ -1,0 +1,130 @@
+div{
+
+}
+
+#C_Logo{
+	width: 8%;
+	position: relative;
+	left: 250px
+}
+#Menu_bar{
+	position: relative;
+	left: 270px;
+	bottom: 40px;
+	font-size: 20px;
+	font-family: Impact
+
+}
+
+#chip_guac{
+	width: 1200px;
+	height: 450px;
+	position:relative;
+	bottom: 75px;
+	left: 100px;
+
+}
+
+#History_Title{
+	font-family: Impact;
+	font-size: 40px;
+	position: relative;
+	bottom: 75px;
+	left: 100px;
+
+}
+
+#History_text{
+	font-size: 15px;
+	position:relative;
+	bottom: 100px;
+	left: 70px;
+	margin-right: 850px;
+	word-spacing: 1.5px
+
+}
+
+#C_store1{
+	width: 500px;
+	height: 500px;
+	position:relative;
+	left:800px;
+	bottom: 400px
+}
+
+#New_add1{
+	font-size: 30px;
+	font-family:impact;
+	position: relative;
+	bottom: 40px;
+	left: 75px; 
+}
+
+#salad{
+	width: 550px;
+	position: relative;
+	left: 80px;
+	bottom:50px;
+}
+
+#Salad_Descrip{
+	font-size: 20px;
+	position: relative;
+	bottom: 50px;
+	left: 75px;
+	margin-right: 900px
+}
+
+#New_add2{
+	font-size: 30px;
+	font-family:impact;
+	position: relative;
+	left: 770px;
+	bottom: 525px;
+}
+
+#tacos{
+	width: 600px;
+	position: relative;
+	left: 770px;
+	bottom: 540px;
+}
+
+#Taco_descrip{
+	font-size: 22px;
+	position:relative;
+	right: 135px;
+	bottom: 535px;
+	margin-left: 900px
+
+}
+
+#fresh_food{
+	font-family: impact;
+	font-size: 45px;
+	position:relative;
+	bottom: 450px;
+	left:450px;
+}
+
+#fresh{
+	width: 40%;
+	position:relative;
+	bottom: 450px;
+	left: 425px
+}
+
+ul{
+	list-style-type: none;
+	display: inline-flex;
+	position: relative;
+	left: 50px;
+	bottom: 20px
+}
+li{
+	padding: 10px
+}
+
+	
+
+}
