@@ -5,13 +5,13 @@ div{
 #C_Logo{
 	width: 8%;
 	position: relative;
-	left: 250px
+	left: 400px
 }
 #Menu_bar{
 	position: relative;
-	left: 270px;
+	left: 530px;
 	bottom: 40px;
-	font-size: 20px;
+	font-size: 25px;
 	font-family: Impact
 
 }
@@ -21,8 +21,7 @@ div{
 	height: 450px;
 	position:relative;
 	bottom: 75px;
-	left: 100px;
-
+	left: 200px;
 }
 
 #History_Title{
@@ -30,26 +29,24 @@ div{
 	font-size: 40px;
 	position: relative;
 	bottom: 75px;
-	left: 100px;
-
+	left: 200px;
 }
 
 #History_text{
-	font-size: 15px;
+	font-size: 17px;
 	position:relative;
 	bottom: 100px;
-	left: 70px;
-	margin-right: 850px;
+	left: 200px;
+	margin-right: 1100px;
 	word-spacing: 1.5px
-
 }
 
 #C_store1{
 	width: 500px;
 	height: 500px;
 	position:relative;
-	left:800px;
-	bottom: 400px
+	left:900px;
+	bottom: 530px
 }
 
 #New_add1{
@@ -57,13 +54,13 @@ div{
 	font-family:impact;
 	position: relative;
 	bottom: 40px;
-	left: 75px; 
+	left: 200px; 
 }
 
 #salad{
 	width: 550px;
 	position: relative;
-	left: 80px;
+	left: 200px;
 	bottom:50px;
 }
 
@@ -71,31 +68,31 @@ div{
 	font-size: 20px;
 	position: relative;
 	bottom: 50px;
-	left: 75px;
-	margin-right: 900px
+	left: 200px;
+	margin-right: 1100px
 }
 
 #New_add2{
 	font-size: 30px;
 	font-family:impact;
 	position: relative;
-	left: 770px;
-	bottom: 525px;
+	left: 900px;
+	bottom: 620px;
 }
 
 #tacos{
 	width: 600px;
 	position: relative;
-	left: 770px;
-	bottom: 540px;
+	left: 900px;
+	bottom: 630px;
 }
 
 #Taco_descrip{
-	font-size: 22px;
+	font-size: 21px;
 	position:relative;
-	right: 135px;
-	bottom: 535px;
-	margin-left: 900px
+	right: 200px;
+	bottom: 625px;
+	margin-left: 1100px
 
 }
 
@@ -103,17 +100,40 @@ div{
 	font-family: impact;
 	font-size: 45px;
 	position:relative;
-	bottom: 450px;
-	left:450px;
+	bottom: 650px;
+	left:575px;
 }
 
 #fresh{
-	width: 40%;
+	width: 35%;
 	position:relative;
-	bottom: 450px;
-	left: 425px
+	bottom: 650px;
+	left: 550px
 }
 
+#Nutritional_Facts{
+	font-size: 15px
+
+}
+
+#Nutritional_Facts2{
+	font-size: 15px;
+	position: relative;
+	left: 900px;
+	bottom: 630px;
+
+}
+
+#Taco_Nutrition{
+	font-size: 12px;
+	position:relative;
+	left: 950px;
+	bottom: 650px
+}
+
+#Salad_Nutrition{
+	font-size: 12px
+}
 ul{
 	list-style-type: none;
 	display: inline-flex;
