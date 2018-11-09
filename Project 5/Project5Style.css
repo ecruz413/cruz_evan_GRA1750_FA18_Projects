@@ -134,6 +134,22 @@ div{
 #Salad_Nutrition{
 	font-size: 12px
 }
+
+#Review_title{
+	font-size: 30px;
+	position:relative;
+	left: 50px
+
+}
+
+#Reviews{
+	font-size: 20px;
+	position: relative;
+	right: 500px;
+	margin-right:500px;
+}
+
+
 ul{
 	list-style-type: none;
 	display: inline-flex;
