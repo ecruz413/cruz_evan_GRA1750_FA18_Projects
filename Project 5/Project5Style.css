@@ -149,6 +149,78 @@ div{
 	margin-right:500px;
 }
 
+#delivery-truck-icon{
+	width: 30%;
+	position:relative;
+	left: 550px;
+	bottom: 50px;
+}
+
+#Title_Location{
+	font-family: Impact;
+	font-size: 50px;
+	position:relative;
+	left: 650px;
+	bottom:50px;
+}
+
+#address{
+	font-size: 25px;
+	position:relative;
+	left: 280px
+}
+
+#address2{
+	font-size: 25px;
+	position: relative;
+	left: 900px;
+	bottom: 55px
+}
+
+#address3{
+	font-size: 25px;
+	position:relative;
+	left: 280px;
+	top: 400px
+}
+
+#address4{
+	font-size: 25px;
+	position: relative;
+	left: 900px;
+	top: 350px
+}
+
+#Chipotle_1{
+	width: 30%;
+	position:relative;
+	left: 240px;
+	bottom:150px
+}
+
+#Chipotle_2{
+	width: 10%
+
+}
+
+#Chipotle_3{
+	
+}
+
+#Chipotle_4{
+	
+}
+
+
+
+
+
+
+
+
+
+
+
 
 ul{
 	list-style-type: none;
