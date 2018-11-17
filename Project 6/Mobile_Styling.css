@@ -1,0 +1,237 @@
+div{
+
+}
+
+#C_Logo{
+	width: 5%;
+	position: relative;
+	left: 525px
+}
+#Menu_bar{
+	position: relative;
+	left: 530px;
+	bottom: 40px;
+	font-size: 12px;
+	font-family: Impact
+}
+
+#chip_guac{
+	width: 342px;
+	height: 146px;
+	position:relative;
+	bottom: 55px;
+	left: 530px;
+}
+
+#History_Title{
+	font-family: Impact;
+	font-size: 15px;
+	position: relative;
+	bottom: 50px;
+	left: 530px;
+}
+
+#History_text{
+	font-size: 12px;
+	position:relative;
+	bottom: 50px;
+	left: 530px;
+	margin-right: 1100px;
+	word-spacing: 1.5px
+}
+
+#C_store1{
+	width: 330px;
+	height: 230px;
+	position:relative;
+	left:530px;
+	bottom: 50px
+}
+
+#New_add1{
+	font-size: 15px;
+	font-family:impact;
+	position: relative;
+	bottom: 40px;
+	left: 530px; 
+}
+
+#salad{
+	width: 336px;
+	position: relative;
+	left: 530px;
+	bottom:50px;
+}
+
+#Salad_Descrip{
+	font-size: 12px;
+	position: relative;
+	bottom: 50px;
+	left: 530px;
+	margin-right: 1100px
+}
+
+#New_add2{
+	font-size: 15px;
+	font-family:impact;
+	position: relative;
+	left: 536px;
+	bottom: 40px;
+}
+
+#tacos{
+	width: 336px;
+	position: relative;
+	left: 536px;
+	bottom: 50px;
+}
+
+#Taco_descrip{
+	font-size: 12px;
+	position:relative;
+	right: 570px;
+	bottom: 50px;
+	margin-left: 1100px
+
+}
+
+#fresh_food{
+	font-family: impact;
+	font-size: 20px;
+	position:relative;
+	bottom: 15px;
+	left:585px;
+}
+
+#fresh{
+	width: 336px;
+	position:relative;
+	bottom: 10px;
+	left: 536px
+}
+
+#Nutritional_Facts{
+	font-size: 12px
+
+}
+
+#Nutritional_Facts2{
+	font-size: 12px;
+	position: relative;
+	left: 536px;
+	bottom: 50px;
+
+}
+
+#Taco_Nutrition{
+	font-size: 10px;
+	position:relative;
+	left: 485px;
+	bottom: 75px
+}
+
+#Salad_Nutrition{
+	font-size: 10px;
+	position: relative;
+	right: 2000px;
+}
+
+#Review_title{
+	font-size: 30px;
+	position:relative;
+	left: 50px
+
+}
+
+#Reviews{
+	font-size: 20px;
+	position: relative;
+	right: 500px;
+	margin-right:500px;
+}
+
+#delivery-truck-icon{
+	width: 30%;
+	position:relative;
+	left: 550px;
+	bottom: 50px;
+}
+
+#Title_Location{
+	font-family: Impact;
+	font-size: 50px;
+	position:relative;
+	left: 650px;
+	bottom:50px;
+}
+
+#address{
+	font-size: 25px;
+	position:relative;
+	left: 280px
+}
+
+#address2{
+	font-size: 25px;
+	position: relative;
+	left: 900px;
+	bottom: 55px
+}
+
+#address3{
+	font-size: 25px;
+	position:relative;
+	left: 250px;
+	top: 400px
+}
+
+#address4{
+	font-size: 25px;
+	position: relative;
+	left: 900px;
+	top: 350px
+}
+
+#Chipotle_1{
+	width: 30%;
+	position:relative;
+	left: 240px;
+	bottom:150px
+}
+
+#Chipotle_2{
+	width: 30%;
+	position:relative;
+	left: 240px;
+	top: 60px
+}
+
+#Chipotle_3{
+	width: 28%;
+	position: relative;
+	left: 880px;
+	bottom: 680px
+	}
+
+#Chipotle_4{
+	width: 28%;
+	position: relative;
+	left: 880px;
+	bottom: 500px
+	
+}
+
+ul{
+	list-style-type: none;
+	display: inline-flex;
+	position: relative;
+	left: 50px;
+	bottom: 20px
+}
+li{
+	padding: 10px
+}
+
+	
+
+}
