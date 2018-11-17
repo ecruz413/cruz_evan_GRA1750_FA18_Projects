@@ -180,7 +180,7 @@ div{
 #address3{
 	font-size: 25px;
 	position:relative;
-	left: 280px;
+	left: 250px;
 	top: 400px
 }
 
@@ -199,15 +199,24 @@ div{
 }
 
 #Chipotle_2{
-	width: 10%
-
+	width: 30%;
+	position:relative;
+	left: 240px;
+	top: 60px
 }
 
 #Chipotle_3{
-	
-}
+	width: 28%;
+	position: relative;
+	left: 880px;
+	bottom: 680px
+	}
 
 #Chipotle_4{
+	width: 28%;
+	position: relative;
+	left: 880px;
+	bottom: 500px
 	
 }
 
