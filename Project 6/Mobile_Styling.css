@@ -5,11 +5,11 @@ div{
 #C_Logo{
 	width: 5%;
 	position: relative;
-	left: 525px
+	left: 750px
 }
 #Menu_bar{
 	position: relative;
-	left: 530px;
+	left: 750px;
 	bottom: 40px;
 	font-size: 12px;
 	font-family: Impact
@@ -20,7 +20,7 @@ div{
 	height: 146px;
 	position:relative;
 	bottom: 55px;
-	left: 530px;
+	left: 750px;
 }
 
 #History_Title{
@@ -28,15 +28,15 @@ div{
 	font-size: 15px;
 	position: relative;
 	bottom: 50px;
-	left: 530px;
+	left: 750px;
 }
 
 #History_text{
-	font-size: 12px;
+	font-size: 14px;
 	position:relative;
 	bottom: 50px;
-	left: 530px;
-	margin-right: 1100px;
+	left: 750px;
+	margin-right: 1550px;
 	word-spacing: 1.5px
 }
 
@@ -44,7 +44,7 @@ div{
 	width: 330px;
 	height: 230px;
 	position:relative;
-	left:530px;
+	left:750px;
 	bottom: 50px
 }
 
@@ -53,13 +53,13 @@ div{
 	font-family:impact;
 	position: relative;
 	bottom: 40px;
-	left: 530px; 
+	left: 750px; 
 }
 
 #salad{
 	width: 336px;
 	position: relative;
-	left: 530px;
+	left: 750px;
 	bottom:50px;
 }
 
@@ -67,31 +67,31 @@ div{
 	font-size: 12px;
 	position: relative;
 	bottom: 50px;
-	left: 530px;
-	margin-right: 1100px
+	left: 750px;
+	margin-right: 1550px
 }
 
 #New_add2{
 	font-size: 15px;
 	font-family:impact;
 	position: relative;
-	left: 536px;
+	left: 750px;
 	bottom: 40px;
 }
 
 #tacos{
 	width: 336px;
 	position: relative;
-	left: 536px;
+	left: 750px;
 	bottom: 50px;
 }
 
 #Taco_descrip{
 	font-size: 12px;
 	position:relative;
-	right: 570px;
+	right: 800px;
 	bottom: 50px;
-	margin-left: 1100px
+	margin-left: 1550px
 
 }
 
@@ -100,14 +100,14 @@ div{
 	font-size: 20px;
 	position:relative;
 	bottom: 15px;
-	left:585px;
+	left:805px;
 }
 
 #fresh{
 	width: 336px;
 	position:relative;
 	bottom: 10px;
-	left: 536px
+	left: 750px
 }
 
 #Nutritional_Facts{
@@ -118,7 +118,7 @@ div{
 #Nutritional_Facts2{
 	font-size: 12px;
 	position: relative;
-	left: 536px;
+	left: 750px;
 	bottom: 50px;
 
 }
@@ -126,98 +126,101 @@ div{
 #Taco_Nutrition{
 	font-size: 10px;
 	position:relative;
-	left: 485px;
-	bottom: 75px
+	left: 700px;
+	bottom: 75px;
+	margin-left: 10px;
 }
 
 #Salad_Nutrition{
 	font-size: 10px;
 	position: relative;
-	right: 2000px;
+	left: 0px;
+	margin-right: 50px
 }
 
 #Review_title{
-	font-size: 30px;
+	font-size: 20px;
 	position:relative;
-	left: 50px
+	left: 30px
 
 }
 
 #Reviews{
-	font-size: 20px;
+	font-size: 15px;
 	position: relative;
-	right: 500px;
-	margin-right:500px;
+	right: 0px;
+	margin-right:1550px;
 }
 
 #delivery-truck-icon{
-	width: 30%;
+	width: 15%;
 	position:relative;
-	left: 550px;
+	left: 785px;
 	bottom: 50px;
 }
 
 #Title_Location{
 	font-family: Impact;
-	font-size: 50px;
+	font-size: 30px;
 	position:relative;
-	left: 650px;
+	left: 835px;
 	bottom:50px;
 }
 
 #address{
-	font-size: 25px;
+	font-size: 15px;
 	position:relative;
-	left: 280px
+	left: 810px;
+	bottom: 50px
 }
 
 #address2{
-	font-size: 25px;
+	font-size: 15px;
 	position: relative;
-	left: 900px;
-	bottom: 55px
+	left: 795px;
+	top: 150px
 }
 
 #address3{
-	font-size: 25px;
+	font-size: 15px;
 	position:relative;
-	left: 250px;
-	top: 400px
-}
-
-#address4{
-	font-size: 25px;
-	position: relative;
-	left: 900px;
+	left: 780px;
 	top: 350px
 }
 
+#address4{
+	font-size: 15px;
+	position: relative;
+	left: 800px;
+	top: 585px
+}
+
 #Chipotle_1{
-	width: 30%;
+	width: 15%;
 	position:relative;
-	left: 240px;
+	left: 780px;
 	bottom:150px
 }
 
 #Chipotle_2{
-	width: 30%;
+	width: 15%;
 	position:relative;
-	left: 240px;
-	top: 60px
+	left: 780px;
+	top: -75px
 }
 
 #Chipotle_3{
-	width: 28%;
+	width: 15%;
 	position: relative;
-	left: 880px;
-	bottom: 680px
+	left: 780px;
+	bottom: 0px
 	}
 
 #Chipotle_4{
-	width: 28%;
+	width: 15%;
 	position: relative;
-	left: 880px;
-	bottom: 500px
+	left: 780px;
+	bottom: -75px
 	
 }
 
