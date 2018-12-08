@@ -78,6 +78,17 @@ li{
 	left: 1100px
 }
 
+#Privacy_Policy{
+	position: relative;
+	top:20px;
+}
+
+#Terms_Use{
+	position: relative;
+	left: 100px;
+	top: 2px;
+}
+
  <!--Story Page-->
 
 #background_2{
@@ -93,7 +104,11 @@ li{
 
 #Story_text{
 	position: relative;
-	left: 650px;
-	font-size: 20px;
+	left: 600px;
+	top: 50px;
+	font-family: American Typewriter;
+	font-size: 25px;
+	text-align: center;
+	margin-right: 1200px;
 	color: black;
 }
