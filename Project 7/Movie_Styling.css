@@ -77,3 +77,23 @@ li{
 	position: relative;
 	left: 1100px
 }
+
+ <!--Story Page-->
+
+#background_2{
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+#Title_2{
+	position: relative;
+	left: 1350px;
+	width: 20%;
+}
+
+#Story_text{
+	position: relative;
+	left: 650px;
+	font-size: 20px;
+	color: black;
+}
