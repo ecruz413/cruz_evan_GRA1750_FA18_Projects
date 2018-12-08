@@ -15,6 +15,9 @@ li{
 	background-color: black
 }
 
+#background_1{
+	background-repeat: no-repeat;
+}
 
 #Title{
 	position: relative;
