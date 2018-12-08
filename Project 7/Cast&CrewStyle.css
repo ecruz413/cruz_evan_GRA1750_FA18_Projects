@@ -1,0 +1,81 @@
+
+#Title_2{
+	position: relative;
+	left: 1350px;
+	width: 20%;
+}
+
+#Hotlink{
+	color: white;
+	font-size: 30px;
+}
+
+#Button_1{
+	position: relative;
+	top: 10px;
+	left: 1250px;
+	width: 70px;
+	background-color: black;
+}
+
+#Button_2{
+	position: relative;
+	left: 1350px;
+	bottom: 25px;
+	width: 165px;
+	background-color: black;
+}
+
+#Button_3{
+	position: relative;
+	left: 1700px;
+	bottom: 60px;
+	width: 150px;
+	background-color: black;
+}
+
+#Button_4{
+	position: relative;
+	left: 1560px;
+	bottom: 95px;
+	width: 95px;
+	background-color: black;
+
+}
+
+#Nav_Bar{
+	position: relative;
+	left:1150px;
+
+	font-family: ;
+	font-size: 30px;
+	font-color: white;
+}
+
+#Cast_title{
+	font-family: American Typewriter;
+	font-size: 30px;
+	position: relative;
+	left: 850px
+
+}
+
+
+ul{
+	list-style-type: none;
+	display: inline-flex;
+
+}
+
+#container li{
+	position: relative;
+	left: 500px;
+	display: inline;
+	padding: right 30px;
+
+
+}
+
+#container{
+	
+}
