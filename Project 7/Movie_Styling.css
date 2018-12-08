@@ -102,6 +102,13 @@ li{
 	width: 20%;
 }
 
+#Story_title{
+	position: relative;
+	left:875px;
+	font-family: American Typewriter;
+	font-size: 30px
+}
+
 #Story_text{
 	position: relative;
 	left: 600px;
