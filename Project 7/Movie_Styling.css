@@ -105,16 +105,16 @@ li{
 #Story_title{
 	position: relative;
 	left:875px;
-	font-family: American Typewriter;
-	font-size: 30px
+	font-family: Blackadder ITC;
+	font-size: 40px
 }
 
 #Story_text{
 	position: relative;
 	left: 600px;
 	top: 50px;
-	font-family: American Typewriter;
-	font-size: 25px;
+	font-family: Blackadder ITC;
+	font-size: 30px;
 	text-align: center;
 	margin-right: 1200px;
 	color: black;

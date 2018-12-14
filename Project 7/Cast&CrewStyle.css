@@ -53,8 +53,8 @@
 }
 
 #Cast_title{
-	font-family: American Typewriter;
-	font-size: 30px;
+	font-family: Blackadder ITC;
+	font-size: 40px;
 	position: relative;
 	left: 850px
 
@@ -67,15 +67,93 @@ ul{
 
 }
 
-#container li{
-	position: relative;
-	left: 500px;
-	display: inline;
-	padding: right 30px;
-
+#container{
+	word-spacing: 200px;
 
 }
 
-#container{
-	
+
+#J_title{
+	position: relative;
+	left: 50px;
+	font-family:;
+	font-size: 20px;
+}
+
+#J_bio{
+	position: relative;
+	left:10px;
+	text-align: center;
+	margin-right: 1700px;
+}
+
+#C_title{
+	position: relative;
+	left: 470px;
+	bottom: 260px;
+	font-size: 20px;
+}
+
+#C_bio{
+	position: relative;
+	bottom: 260px; 
+	left: 430px;
+	text-align: center;
+	margin-right: 1700px;
+
+}
+
+#Cornell_title{
+	position: relative;
+	left: 900px;
+	bottom: 510px;
+	font-size: 20px
+}
+
+#Cornell_bio{
+	position: relative;
+	bottom: 510px; 
+	left: 855px;
+	text-align: center;
+	margin-right: 1700px;
+}
+
+#D_title{
+	position: relative;
+	bottom: 715px;
+	left: 1300px;
+	font-size: 20px
+}
+
+#D_bio{
+	position: relative;
+	bottom: 720px;
+	left: 1270px;
+	text-align: center;
+	margin-right: 1700px;
+}
+
+#E_title{
+	position: relative;
+	bottom: 1009px;
+	left: 1710px;
+	font-size: 20px
+}
+
+#E_bio{
+	position: relative;
+	bottom: 1020px;
+	left: 1685px;
+	text-align: center;
+	margin-right: 1700px;
+
+}
+
+
+
+#container_2{
+	word-spacing: 200px;
+	position:relative;
+	left:200px;
+	bottom: 900px
 }
