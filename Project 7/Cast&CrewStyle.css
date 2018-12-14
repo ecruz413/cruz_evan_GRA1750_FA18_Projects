@@ -157,3 +157,35 @@ ul{
 	left:200px;
 	bottom: 900px
 }
+
+#Ezra_title{
+	position: relative;
+	bottom: 900px;
+	left: 260px;
+	font-size: 20px
+}
+
+#Ezra_bio{
+	position: relative;
+	bottom: 900px;
+	left: 215px;
+	margin-right: 1700px;
+	text-align: center;
+}
+
+#K_title{
+	position: relative;
+	bottom: 1130px;
+	left: 670px;
+	font-size: 20px
+}
+
+#K_bio{
+	position: relative;
+	bottom: 1130px;
+	left: 635px;
+	margin-right: 1700px;
+	text-align: center;
+}
+
+}
