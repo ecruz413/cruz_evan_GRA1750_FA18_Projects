@@ -1,3 +1,7 @@
+#background_2{
+	background-size: 100%
+}
+
 
 #Title_2{
 	position: relative;
@@ -184,6 +188,37 @@ ul{
 	position: relative;
 	bottom: 1130px;
 	left: 635px;
+	margin-right: 1700px;
+	text-align: center;
+}
+
+#W_title{
+	position: relative;
+	bottom: 1410px;
+	left: 1100px;
+	font-size: 20px
+}
+
+#W_bio{
+	position: relative;
+	bottom: 1410px;
+	left: 1050px;
+	margin-right: 1700px;
+	text-align: center;
+}
+
+#Z_title{
+	position: relative;
+	bottom: 1665px;
+	left: 1510px;
+	font-size: 20px
+
+}
+
+#Z_bio{
+	position: relative;
+	bottom: 1670px;
+	left: 1470px;
 	margin-right: 1700px;
 	text-align: center;
 }

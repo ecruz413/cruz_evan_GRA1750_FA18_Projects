@@ -75,7 +75,7 @@ li{
 #Trailer{
 	width: 30%;
 	position: relative;
-	left: 1100px
+	left: 1050px
 }
 
 #Privacy_Policy{
@@ -118,4 +118,40 @@ li{
 	text-align: center;
 	margin-right: 1200px;
 	color: black;
+}
+
+#Share_button{
+	position: relative;
+	left: 1100px;
+}
+
+#Warner{
+	position: relative;
+	bottom: 75px;
+	left: 1700px
+}
+#img_1{
+	position: relative;
+	left:100px;
+
+}
+
+#img_2{
+	position: relative;
+	left:100px;
+}
+
+#img_3{
+	position: relative;
+	left:150px;
+}
+
+#img_4{
+	position: relative;
+	left:300px;
+}
+
+#img_5{
+	position: relative;
+	left:450px;
 }
